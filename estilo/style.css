@@ -95,14 +95,9 @@ section.imagem > p{
     text-shadow: 1px 1px 0px black;
 }
 
-
-
-
-
-
-
 footer{
     background-color: black;
     text-align: center;
     color: white;
+    padding: 5px;
 }
